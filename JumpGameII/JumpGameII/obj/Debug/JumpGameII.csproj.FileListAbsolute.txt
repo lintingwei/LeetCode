@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\JumpGameII\JumpGameII\bin\Debug\JumpGameII.exe.config
+C:\Users\asus\source\repos\JumpGameII\JumpGameII\bin\Debug\JumpGameII.exe
+C:\Users\asus\source\repos\JumpGameII\JumpGameII\bin\Debug\JumpGameII.pdb
+C:\Users\asus\source\repos\JumpGameII\JumpGameII\obj\Debug\JumpGameII.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\JumpGameII\JumpGameII\obj\Debug\JumpGameII.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\JumpGameII\JumpGameII\obj\Debug\JumpGameII.exe
+C:\Users\asus\source\repos\JumpGameII\JumpGameII\obj\Debug\JumpGameII.pdb
