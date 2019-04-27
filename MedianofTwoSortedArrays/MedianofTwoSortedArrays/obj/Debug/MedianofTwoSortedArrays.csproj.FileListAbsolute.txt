@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\MedianofTwoSortedArrays\MedianofTwoSortedArrays\bin\Debug\MedianofTwoSortedArrays.exe.config
+C:\Users\asus\source\repos\MedianofTwoSortedArrays\MedianofTwoSortedArrays\bin\Debug\MedianofTwoSortedArrays.exe
+C:\Users\asus\source\repos\MedianofTwoSortedArrays\MedianofTwoSortedArrays\bin\Debug\MedianofTwoSortedArrays.pdb
+C:\Users\asus\source\repos\MedianofTwoSortedArrays\MedianofTwoSortedArrays\obj\Debug\MedianofTwoSortedArrays.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\MedianofTwoSortedArrays\MedianofTwoSortedArrays\obj\Debug\MedianofTwoSortedArrays.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\MedianofTwoSortedArrays\MedianofTwoSortedArrays\obj\Debug\MedianofTwoSortedArrays.exe
+C:\Users\asus\source\repos\MedianofTwoSortedArrays\MedianofTwoSortedArrays\obj\Debug\MedianofTwoSortedArrays.pdb
