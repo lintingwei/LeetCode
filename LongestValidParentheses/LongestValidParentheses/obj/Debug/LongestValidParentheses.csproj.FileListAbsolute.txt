@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\LongestValidParentheses\LongestValidParentheses\bin\Debug\LongestValidParentheses.exe.config
+C:\Users\asus\source\repos\LongestValidParentheses\LongestValidParentheses\bin\Debug\LongestValidParentheses.exe
+C:\Users\asus\source\repos\LongestValidParentheses\LongestValidParentheses\bin\Debug\LongestValidParentheses.pdb
+C:\Users\asus\source\repos\LongestValidParentheses\LongestValidParentheses\obj\Debug\LongestValidParentheses.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\LongestValidParentheses\LongestValidParentheses\obj\Debug\LongestValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\LongestValidParentheses\LongestValidParentheses\obj\Debug\LongestValidParentheses.exe
+C:\Users\asus\source\repos\LongestValidParentheses\LongestValidParentheses\obj\Debug\LongestValidParentheses.pdb
