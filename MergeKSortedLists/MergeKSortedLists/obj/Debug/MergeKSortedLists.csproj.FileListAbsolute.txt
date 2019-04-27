@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\MergeKSortedLists\MergeKSortedLists\bin\Debug\MergeKSortedLists.exe.config
+C:\Users\asus\source\repos\MergeKSortedLists\MergeKSortedLists\bin\Debug\MergeKSortedLists.exe
+C:\Users\asus\source\repos\MergeKSortedLists\MergeKSortedLists\bin\Debug\MergeKSortedLists.pdb
+C:\Users\asus\source\repos\MergeKSortedLists\MergeKSortedLists\obj\Debug\MergeKSortedLists.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\MergeKSortedLists\MergeKSortedLists\obj\Debug\MergeKSortedLists.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\MergeKSortedLists\MergeKSortedLists\obj\Debug\MergeKSortedLists.exe
+C:\Users\asus\source\repos\MergeKSortedLists\MergeKSortedLists\obj\Debug\MergeKSortedLists.pdb
